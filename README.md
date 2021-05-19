@@ -2,6 +2,8 @@
 
 This repo demonstrates reading a parquet file with Node.js using [`parquetjs-lite`](https://github.com/ZJONSSON/parquetjs) and [`nestjs`](https://github.com/nestjs/nest).
 
+[Go straight to `Parquet Reader` here.](src/app.service.ts)
+
 ## Installation
 
 ```bash
